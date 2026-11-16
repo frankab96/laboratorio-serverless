@@ -1,0 +1,17 @@
+{
+    "nombre": "Francisco Javier",
+    "apellido": "Abrego Villalta",
+    "email": "franciscoabregohilasal@gmail.com",
+    "token": "5b85e3e0-e364-423e-9bd8-2232444befdc",
+    "fecha_utc": "2026-11-16T04:26:30.273664+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "6.18.58.1-microsoft-standard-WSL2",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "f03082203c96",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "980895a227fcfec8949606366a3e8ab9b51d6656ff8697b892b8282c418312b5"
+}
